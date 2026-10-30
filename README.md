@@ -98,14 +98,6 @@ Halaman **Notifikasi** bisa diakses dari beranda.
 
 ---
 
-## 👤 Pembuat
-
-- **Nama:** _isi nama kamu_
-- **Kelas/Jurusan:** _isi kelas/jurusan_
-- **Sekolah/Kampus:** _isi institusi_
-
----
-
 ## 📝 Catatan
 
 Proyek ini adalah prototipe desain UI untuk keperluan tugas. Belum ada implementasi kode atau backend.
