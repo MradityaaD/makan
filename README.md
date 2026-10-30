@@ -1,15 +1,22 @@
 # 🍔 Kantin Modern — UI/UX Design (Tugas UPRAK)
+ 
+Desain antarmuka aplikasi mobile **Kantin Modern**, aplikasi pemesanan makanan dan minuman kantin dengan tagline **"pesan menu kesukaan kamu!"**. Desain dibuat di Figma dalam ukuran **iPhone 16 Pro Max**, lengkap dengan alur prototype yang bisa diklik.
+ 
+🔗 **Prototype Figma:** [Buka prototype](https://www.figma.com/proto/R3tSyMyhLPU7x9ufMyvDVl/tugas-uprak?node-id=1-3&p=f&t=x8kNX1hJm91rsgCi-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1)
 
-Desain antarmuka (UI) aplikasi mobile **Kantin Modern**, yaitu aplikasi pemesanan makanan dan minuman kantin secara digital. Pengguna bisa melihat menu, memilih makanan, mengatur level dan topping, lalu memesan tanpa harus antre.
+ ---
 
-Desain dibuat di **Figma** sebagai tugas ujian praktik (UPRAK).
-
+ ## 📸 Preview Seluruh Desain
+ 
 ![Preview Desain](preview.webp)
+
+*Seluruh halaman desain di canvas Figma.*
 
 ---
 
 ## 📌 Deskripsi Singkat
 
+Kantin Modern adalah konsep aplikasi pesan-antar makanan untuk lingkungan sekolah (pengiriman diarahkan ke **SMK TI Dwiguna**). Pengguna bisa mencari menu, melihat detail, memilih jumlah, bahkan **menyusun burger sendiri** lewat pilihan topping, lalu checkout dengan voucher diskon.
 Kantin Modern mempermudah proses memesan makanan di kantin. Alurnya dibuat sederhana: **buka aplikasi → login → pilih menu → atur pesanan → checkout → selesai**. Tampilan memakai dominan warna **biru** dengan layout bersih dan card-based supaya mudah dibaca.
 
 ---
