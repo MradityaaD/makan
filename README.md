@@ -108,3 +108,7 @@ Halaman **Notifikasi** bisa diakses dari beranda.
 ## 📝 Catatan
 
 Proyek ini adalah prototipe desain UI untuk keperluan tugas. Belum ada implementasi kode atau backend.
+
+## 👨‍💻 Pembuat
+
+**Muhammad Raditya Duta Pratama** — Kelas X PPLG 1
